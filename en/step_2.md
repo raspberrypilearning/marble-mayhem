@@ -86,11 +86,11 @@ Edit the project settings to give your project a sensible name and save it to a 
 
 Your new project will open in the Unity Editor. It may take some time to load.
 
+--- /collapse ---
+
 [[[unity-create-3d-project]]]
 
 [[[unity-importing-a-package]]]
-
---- /collapse ---
 
 --- collapse ---
 
