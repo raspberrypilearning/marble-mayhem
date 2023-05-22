@@ -65,12 +65,12 @@ or
 
 Create a new project for your Marble Mayhem.
 
+If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [More Unity starter package](https://rpf.io/p/en/rainbow-run-go){:target="_blank"} that contains a collection of useful assets. 
+
 --- collapse ---
 ---
 title: I don't have an existing project
 ---
-
-If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [More Unity starter package](https://rpf.io/p/en/rainbow-run-go){:target="_blank"} that contains a collection of useful assets. 
 
 Launch the Unity Hub and click **Projects** then select **New project**:
 
@@ -87,8 +87,6 @@ Edit the project settings to give your project a sensible name and save it to a 
 Your new project will open in the Unity Editor. It may take some time to load.
 
 --- /collapse ---
-
-[[[unity-create-3d-project]]]
 
 [[[unity-importing-a-package]]]
 
