@@ -57,24 +57,82 @@ Think about the skills you have gained in this pathway and how you will use them
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+**Choose:**
+
+Open the project you have been working on during this More Unity path and create a new scene.
+
+or
+
+Create a new project for your Marble Mayhem.
 
 --- collapse ---
 ---
-title: Working offline
+title: I don't have an existing project
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+If you have not completed the rest of the path, or are not able to open your previous project, you can download and import the [More Unity starter package](https://rpf.io/p/en/rainbow-run-go){:target="_blank"} that contains a collection of useful assets. 
+
+Launch the Unity Hub and click **Projects** then select **New project**:
+
+![A screenshot of the black bar at the top of the Unity Hub with the 'New Project' button highlighted in red.](images/new-project.png)
+
+From the list choose **All templates** then select **3D Core**:
+
+![A screenshot of the left pane in the Unity Hub. The 3D core option is highlighted in red.](images/3D-core.png)
+
+Edit the project settings to give your project a sensible name and save it to a sensible location. Then click **Create project**:
+
+![A screenshot of the right pane in the Unity Hub. The filename and the 'Create Project' sections are highlighted in red.](images/create-project.png)
+
+Your new project will open in the Unity Editor. It may take some time to load.
+
+[[[unity-create-3d-project]]]
+
+[[[unity-importing-a-package]]]
 
 --- /collapse ---
 
-Use ... , a pen and paper, or both to plan ideas for your book.
+--- collapse ---
+
+---
+title: Create a new scene
+---
+
+Open the Unity project you have used for the reset of the pathway. 
+
+In the **Project** panel right-click and select **Create --> Scene**.
+
+![The right-click menu with Create and Scene highlighted](images/create-scene.png)
+
+In the pop-up window, name your Scene `Marble Mayhem`:
+
+A new file will appear in the Assets folder in the Project window.
+
+Drag the new Scene into the 'Scenes' folder to organise your files.
+
+Open the new Scene, by double clicking on it, to start making your game!
+
+--- /collapse ---
+
+--- /task ---
+
+### Unity basics
+
+--- task ---
+
+Personalise the Unity Editor to create the most efficient environment for you to create your project. 
+
+[[[unity-customise-editor]]]
+
+[[[unity-playmode-tint]]]
 
 --- /task ---
 
 --- task ---
 
-Any other info/content
+Think about how you can make your project with the Unity skills you have learnt. If there's anything that you haven't learnt yet then try and adjust your ideas so you will be able to build your project. 
+
+Note down things you don't know how to do yet so you can find out how to do them in future. 
 
 --- /task ---
 
