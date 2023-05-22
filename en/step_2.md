@@ -40,7 +40,7 @@ Think about who you will make your project for (your **audience**).
 
 ### Game design or experience design
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Games, when you play them with other people, … actually strengthen the reward circuitry so it actually makes people more social and more likely to collaborate because their brains are actually more responsive to people online and offline. Games are transforming the brains of people who play them in largely positive ways." Jane Mcgonigal, Director of game research and development for the Institite for the Future</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Games, when you play them with other people, … actually strengthen the reward circuitry so it actually makes people more social and more likely to collaborate because their brains are actually more responsive to people online and offline. Games are transforming the brains of people who play them in largely positive ways." Jane Mcgonigal, Director of game research and development for the Institute for the Future</p>
 
 ![](INSERT BANNER OF EXAMPLES)
 
