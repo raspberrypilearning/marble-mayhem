@@ -99,7 +99,7 @@ You might also want to be able to rotate the camera.
 
 **Tip:** Do not do this if you are tilting the level as it will mess up the orientation. 
 
-[[[unity-camera-rotate-mouse]]]
+[[[unity-rotate-camera-mouse]]]
 
 ### Play and test
 
