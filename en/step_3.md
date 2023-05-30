@@ -26,13 +26,15 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 [[[unity-scene-gizmo]]]
 
+**Tip:** If you are using one of the 'Floor' GameObjects from the asset package, make sure to select all the 'Cube' child objects and add a Box Collider component to them.
+
 ### Add your marble
 
 --- task ---
 
 Add a Sphere GameObject and rename it to `Marble`. 
 
-Scale the ball to fit your project (we used  X=`0.25`, Y=`0.25`, Z=`0.25`).
+Scale the ball to fit your project.
 
 --- /task ---
 
@@ -75,7 +77,7 @@ Tilt the level to roll your marble around.
 
 If the player is controlling the ball with the keyboard you will want to choose a view behind and a little above the ball like this...
 
-![]()
+![The camera view behind and just above the ball, perfect for a game where the camera follows the ball.](images/camera-view.png)
 
 To tilt the world you should first switch to top view. 
 
