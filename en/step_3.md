@@ -99,7 +99,7 @@ For the Tilt you can leave the camera zoomed out and not have it follow the marb
 
 You might also want to be able to rotate the camera. 
 
-**Tip:** Do not do this if you are tilting the level as it will mess up the orientation. 
+**Tip:** Do not do this if you are tilting the level as it will make controlling the level very difficult. 
 
 [[[unity-rotate-camera-mouse]]]
 
@@ -110,7 +110,7 @@ Press the Play button and test your game so far.
 Check that you are happy with the following things: 
 - The layout of your level
 - Camera view, angle and controls
-- Marble or world tilt controls
+- Level tilt mechanic
 - The difficulty of your level without obstacles
 
 **Debug:** 
@@ -237,7 +237,7 @@ You can add Physics Materials to all the objects in your Scene to change the way
 
 Physics Materials have three attributes that you can set to any value between `0` and `1` to change an objects interactions: 
 **Dynamic Friction:** How quickly an object that is already moving will slow down. `0` is like ice (not very much friction) and `1` would stop a moving object very quickly. 
-**Static Friction:** The amount of force needed to move an object from standing still. `0` means not a lot of force is needed and `1` would require a huge amount of force to move an object. 
+**Static Friction:** The amount of force needed to move an object from standing still. `0` means any amount of force is needed and `1` would require a huge amount of force to move an object. 
 **Bounciness:** How bouncy an object is. `0` is no bounce at all and `1` means an object will bounce and not lose any velocity.
 
 [[[bouncy-material]]]
@@ -252,8 +252,8 @@ Now it is time to add the final touches to your Scene.
 - Change material when colliding with the player
 - Change to a random colour on collision
 - Play a sound on collision
-- Play a sound when the player enters an area
-- Add a particle effect when the player enters an area
+- Play a sound when the marble collides with an obstacle
+- Add a particle effect when the marble rolls into an area
 
 You can use the Scripts you have created during the pathway for these effects, if you don't have the scripts you can find them below. 
 
@@ -419,7 +419,26 @@ public class FinishEffects : MonoBehaviour
 
 Play your game to test out all your new features to check they are working how you expect. 
 
-Fix any bugs you find. 
+**Debug:** You might find some bugs in your project that you need to fix. 
 
-**Debug:**
+- Double check any changes you made during Play mode.
+- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
+- Look at the values of public variables in the Inspector in Play mode to see how they are changing. 
+- Use `Debug.Log()` to print messages to the Console to understand what's happening. 
+- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor.
+
+--- collapse ---
+
+---
+title: My collisions are not working
+---
+
+Almost all of the collision scripts require the Marble to tagged as "Player" in the Inspector. 
+
+![Inspector for the Marble GameObject, with the Tag box highlighted and "Player" set.](images/marble-tag.png)
+
+You should also check that any objects you want to collide have a `Collider` component.
+
+--- /collapse ---
+
 

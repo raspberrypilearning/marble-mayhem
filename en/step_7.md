@@ -1,9 +1,12 @@
 ## What next?
 
-You have reached the end of the [name of path](https://projects.raspberrypi.org/en/pathways/name-of-path) path!
+You have reached the end of the [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity){:target='_blank'} path!
 
-Now you can bring all your ideas to life in Scratch. Try using Scratch to make more cool stuff. If you need a reminder of what you have learned, you can go to the [Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Now you can bring all your ideas to life in Unity. Try using Unity to make more cool stuff. Come back to this project if you need a reminder of what you have learnt.
 
-[[[scratch-coolest-projects]]]
+[[[unity-coolest-projects]]]
 
-Or, you can explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+If you want to continue developing your Unity skills, there are many more free resources to help you do that. 
+
++ To learn more C# programming with Unity, and possibly get a job as a programmer someday, check out [Unity’s Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer){:target='_blank'}. 
++ If you enjoyed the design aspect of these projects more, and want to learn more about creating beautiful, immersive environments, check out [Unity’s Creative Core Pathway](https://learn.unity.com/pathway/creative-core){:target='_blank'}.

@@ -1,73 +1,13 @@
-## Reflection
+## Upgrade your project
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+If you have time, you can upgrade your project. You might already have ideas about what else to add or you might want to go back to the first step and look at other projects for more inspiration.
 
-Does your ... have:
+You could:
+- Add more levels, obstacles, sound effects, material changes for the player to discover
+- Add clear instructions such as a start screen so they player knows what to do
+- Improve the scenery, sound, and particle effects to create the right atmosphere for your adventure 
+- Observe others playing your 3D adventure then make adjustments or improvements
 
---- task ---
+Take a look at some Marble Mayhem! projects created by community members in the Raspberry Pi Foundation’s gallery of [3D adventure Community Projects](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
 
-something
-
---- /task ---
-
---- task ---
-
-something
-
---- /task ---
-
-
-Your ... could also have:
-
---- task ---
-
-something
-
---- /task ---
-
---- task ---
-
-something
-
---- /task ---
-
-
-Reflecting about how you made your ... will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas? 
-
---- /task ---
-
---- task ---
-
-What cool new thing(s) did you learn?
-
---- /task ---
-
---- task ---
-
-<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
-The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
-Mistakes are powerful.
-Mistakes are empowering. 
-
-What mistakes did you make and how did they help you create your ... ?
-
---- /task ---
-
-### Now you are (the author of a digital book)!
-
-Take a moment to celebrate what you have made.
-
---- task ---
-
-Where will you take your new powers? What will you make next?
-
---- /task ---
-
-![scratch cat in at party hat](images/reflect.png)
-
+--- save ---
