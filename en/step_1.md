@@ -1,6 +1,6 @@
 ## You will make
 
-Balls! is the final project in the [More Unity](){target:"_blank"} path. 
+Marble Mayhem! is the final project in the [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity){target:"_blank"} path. 
 
 You are going to create an interactive 3D experience using Unitys physics and and a range of materials. Your project could be a a game, a digital interactive toy or marble run, or a sensory or art experience. ... 
 
@@ -9,11 +9,6 @@ Your creation will need to meet the **project brief**.
 Create an interactive project that showcases a range of marble/ball materials. It could be a game, a digital interactive toy or marble run, or a sensory or art experience. 
 
 This project is brought to you with generous support from [Unity Technologies](https://unity.com/){:target="_blank"}.  These [projects](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} offer young people the opportunity to take their first steps in creating virtual worlds using Real-Time 3D.
-
-<mark>this particular boxout optional: maybe a good idea if first path</mark>
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
-</p>
 
 You will:
 + Use your Unity skills to create an interactive experience
@@ -30,7 +25,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-Click on the embedded project and... <mark>Add in objective of the example</mark>
+Click on the embedded project and use the <kbd>WASD</kbd> keys to roll the ball down the ramp. Try to change the material of every floor tile by rolling around on it.
 
 Think about the physics and the materials used. 
 + How have Physics Materials been used to change the way objects collide?
@@ -39,6 +34,7 @@ Think about the physics and the materials used.
 </div>
 <div>
 
+<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/MarbleMayhemRainbowBounce/" scrolling = "no" frameborder="0"></iframe>
 
 </div>
 
@@ -51,13 +47,13 @@ Think about the physics and the materials used.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Balls!
+### PROJECT BRIEF: Marble Mayhem!
 <hr style="border-top: 2px solid black;">
 
-Create an interactive marble/ball project that showcases a range of materials and physics interactions.
+Create an interactive marble project that showcases a range of materials and physics interactions.
 
 Your project should:
-+ Use a ball with a Rigidbody that rolls around a level and collides with obstacles
++ Use a Sphere with a Rigidbody that rolls around a level and collides with obstacles
 + Have a range of materials to give the project a defined look and feel
 + Give the user a goal to complete.
 
