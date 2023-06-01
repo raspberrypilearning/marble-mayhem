@@ -4,7 +4,7 @@ Did you meet the **project brief**? Think about your project and go through the 
 
 Your **project brief** was to create an interactive marble project that showcases a range of materials and physics interactions.
 
-Remember, it takes a long time to make a complete game or visual novel. Some games take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
+Remember, it takes a long time to make a complete game or art experience. Some projects take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
 
 Does your Marble Mayhem! project:
 
