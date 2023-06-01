@@ -1,7 +1,9 @@
 ---
-title: invent-project-template
+title: Marble Mayhem
 hero_image: images/banner.png
-description: invent-project-template description
+description: Create an interactive 3D experience using Unity's physics and a range of materials
+meta_title: Learn Unity | Game development | Merble Mayhem
+meta_description: Learn Unity game development with the Raspberry Pi Foundation. Create a 3D adventure of your own using Unity.
 version: 4
 listed: false
 copyedit: false
@@ -10,7 +12,12 @@ steps:
 - title: You will make
 - title: Your idea
 - title: Build and test
-- title: Share
-- title: Reflection
-- title: Upgrade your project
-- title: What next?
+    completion:
+      - engaged
+      - internal
+  - title: Checklist
+    completion:
+      - external
+  - title: Upgrade your project
+  - title: Share
+  - title: What next?
