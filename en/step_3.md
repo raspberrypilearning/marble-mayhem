@@ -1,8 +1,8 @@
 ## Build and test
 
-Now it's time to make your marble mayhem experience. Start small and then add more if you have time.
+Now it's time to make your Marble Mayhem! experience. Start small and then add more if you have time.
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+**TO DO ![Image, gif or video showing what they will achieve by the end of the step.](images/image.png)
 
 ### Unity reference
 
@@ -34,7 +34,9 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 Add a Sphere GameObject and rename it to `Marble`. 
 
-Scale the ball to fit your project.
+Scale the marble to fit your project.
+
+[[[unity-transform-tools]]]
 
 --- /task ---
 
@@ -42,10 +44,9 @@ Scale the ball to fit your project.
 
 Add a material for your marble.
 
-[[[unity-transform-tools]]]
 [[[unity-existing-material]]]
 [[[unity-material-with-texture]]]
-[[[unity-glass-material]]
+[[[unity-glass-material]]]
 
 --- /task ---
 
@@ -255,7 +256,7 @@ Now it is time to add the final touches to your Scene.
 - Play a sound when the marble collides with an obstacle
 - Add a particle effect when the marble rolls into an area
 
-You can use the Scripts you have created during the pathway for these effects, if you don't have the scripts you can find them below. 
+You can use the Scripts you have created during the pathway for these effects. If you don't have the scripts, you can find them below. 
 
 **Tip:** Make sure that your marble is tagged as "Player" for these to work.
 
@@ -409,9 +410,9 @@ public class FinishEffects : MonoBehaviour
     }
 }
 
-**Tip:** You will need to add the 'Fireworks' GameObject from your assets as a child of the GameObject. 
-
 --- /code ---
+
+**Tip:** You will need to add the 'Fireworks' GameObject from your assets as a child of the GameObject. 
 
 --- /collapse ---
 
@@ -419,13 +420,18 @@ public class FinishEffects : MonoBehaviour
 
 Play your game to test out all your new features to check they are working how you expect. 
 
+--- task ---
+
 **Debug:** You might find some bugs in your project that you need to fix. 
 
+Useful debug tips:
 - Double check any changes you made during Play mode.
 - Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
 - Look at the values of public variables in the Inspector in Play mode to see how they are changing. 
 - Use `Debug.Log()` to print messages to the Console to understand what's happening. 
 - Check the Console for errors. Script errors also appear in the bar at the bottom of the editor.
+
+--- /task ---
 
 --- collapse ---
 
@@ -441,4 +447,8 @@ You should also check that any objects you want to collide have a `Collider` com
 
 --- /collapse ---
 
+You might find a bug not listed here. Can you figure out how to fix it?
 
+We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+
+--- save ---
