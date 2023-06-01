@@ -1,20 +1,18 @@
 ## You will make
 
-Marble Mayhem! is the final project in the [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity){target:"_blank"} path. 
+Marble Mayhem! is the final project in the [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity){:target="_blank"} path. 
 
-You are going to create an interactive 3D experience using Unitys physics and and a range of materials. Your project could be a a game, a digital interactive toy or marble run, or a sensory or art experience. ... 
-
-Your creation will need to meet the **project brief**.
-
-Create an interactive project that showcases a range of marble/ball materials. It could be a game, a digital interactive toy or marble run, or a sensory or art experience. 
+You are going to create an interactive 3D experience using Unity's physics and a range of materials. Your project could be a a game, a digital interactive toy, a marble run, or a sensory or art experience.
 
 This project is brought to you with generous support from [Unity Technologies](https://unity.com/){:target="_blank"}.  These [projects](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} offer young people the opportunity to take their first steps in creating virtual worlds using Real-Time 3D.
+
+Your creation will need to meet the **project brief**.
 
 You will:
 + Use your Unity skills to create an interactive experience
 + Combine Rigidbodies, Colliders and Physics Materials to change the way 3D GameObjects behave when they collide
 + Use code to change the Materials of the GameObjects in your 3D experience
-+ Share your projects with others so they can try it out and you can get feedback
++ Share your project with others so they can try it out and you can get feedback
 
 --- no-print ---
 
@@ -29,7 +27,7 @@ Click on the embedded project and use the <kbd>WASD</kbd> keys to roll the ball 
 
 Think about the physics and the materials used. 
 + How have Physics Materials been used to change the way objects collide?
-+ What different Materials have been used and how do they change as you play?
++ Which different Materials have been used and how do they change as you play?
 
 </div>
 <div>
@@ -38,8 +36,7 @@ Think about the physics and the materials used.
 
 </div>
 
-</div>
-</div>
+</div>  
 
 --- /task ---
 
