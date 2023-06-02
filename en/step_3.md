@@ -30,6 +30,8 @@ Now it's time to make your Marble Mayhem! experience. Start small and then add m
 
 ### Add your marble
 
+![A selection of images of different marble examples.](images/marble-examples.png)
+
 --- task ---
 
 Add a Sphere GameObject and rename it to `Marble`. 
@@ -118,6 +120,8 @@ Check that you are happy with the following things:
 - Make sure you exit Play mode before making any changes as they will not be saved if changed during Play mode
 
 ### Obstacles
+
+![A selection of obstacles examples, a collection of capsules and spinning cuboids. A number of different materials are applied to the obstacles.](images/obstacles-examples.png)
 
 Now it is time to add some obstacles for the marble to interact with! 
 

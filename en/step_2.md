@@ -42,7 +42,7 @@ Think about who you will make your project for (your **audience**).
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"Games, when you play them with other people, … actually strengthen the reward circuitry so it actually makes people more social and more likely to collaborate because their brains are actually more responsive to people online and offline. Games are transforming the brains of people who play them in largely positive ways." Jane Mcgonigal, Director of game research and development for the Institute for the Future</p>
 
-![](INSERT BANNER OF EXAMPLES)
+![A selection of examples of Marble Mayhem! levels.](images/level-examples.png)
 
 Think about the skills you have gained in this pathway and how you will use them to create your project:
 - What will your level look like, will it be a track, a tiled floor or a combination of the two?
