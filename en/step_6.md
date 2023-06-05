@@ -1,22 +1,20 @@
-## Upgrade your project
+## Share
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+You can build your project as a 'WebGL' project and upload it to a website so others can try it out. 
 
-You could:
-- ...
-- ...
+[[[webgl-setup]]]
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+[[[webgl-build]]]
 
-<mark> Optional </mark>Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+[[[webgl-host]]]
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
+You could also take a screenshot or make a video of your project. 
 
-Take a look at some I made you a book projects created by community members in the Raspberry Pi Foundation’s studio of I made you a book Community Projects [See inside](https://scratch.mit.edu/studios/29092393/){:target="_blank"}.
+--- task ---
 
+Inspire others with your project by submitting it to our community gallery! 
 
---- save ---
+To share your project with others who make the 'Marble Mayhem!' project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
 
