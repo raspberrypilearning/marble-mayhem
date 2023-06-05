@@ -10,4 +10,14 @@ You could:
 
 Take a look at some Marble Mayhem! projects created by community members in the Raspberry Pi Foundation’s gallery of [Marble Mayhem! Community Projects](https://wke.lt/w/s/DS1fHk){:target="_blank"}.
 
+--- collapse ---
+
+---
+title: Completed project
+---
+
+You can download completed projects as packages from the [zipped solutions directory](https://rpf.io/p/en/marble-mayhem-get){:target="_blank"}.
+
+--- /collapse ---
+
 --- save ---
