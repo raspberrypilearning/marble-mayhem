@@ -240,12 +240,7 @@ You can add Physics Materials to all the objects in your Scene to change the way
 - The obstacles 
 - Pieces of the level. 
 
-Physics Materials have three attributes that you can set to any value between `0` and `1` to change an objects interactions: 
-**Dynamic Friction:** How quickly an object that is already moving will slow down. `0` is like ice (not very much friction) and `1` would stop a moving object very quickly. 
-**Static Friction:** The amount of force needed to move an object from standing still. `0` means any amount of force is needed and `1` would require a huge amount of force to move an object. 
-**Bounciness:** How bouncy an object is. `0` is no bounce at all and `1` means an object will bounce and not lose any velocity.
-
-[[[bouncy-material]]]
+[[[add-friction]]]
 
 Create some Physics materials and add them to objects in your Scene.
 
