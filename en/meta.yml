@@ -1,16 +1,28 @@
----
 title: Marble Mayhem!
 hero_image: images/banner.png
-description: invent-project-template description
-version: 4
+description: Design and create your very own marble project combining Unity Physics and Materials
+meta_title: Marble Mayhem!
+meta_description: Design and create your very own marble project combining Unity Physics and Materials
+keywords:
+- unity
+- ball
+- marble
+- 3d
+- game
+version: 1
 listed: false
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: '2022-06-13'
 steps:
 - title: You will make
 - title: Your idea
 - title: Build and test
+  completion:
+      - engaged
+      - internal
 - title: Checklist
+  completion:
+      - external
 - title: Upgrade your project
 - title: Share
 - title: What next?
