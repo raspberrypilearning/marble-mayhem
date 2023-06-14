@@ -1,6 +1,6 @@
 ## Build and test
 
-Now it's time to make your Marble Mayhem! experience. Start small and then add more if you have time.
+Now it's time to make your Marble mayhem! experience. Start small and then add more if you have time.
 
 **TO DO ![Image, gif or video showing what they will achieve by the end of the step.](images/image.png)
 
@@ -34,7 +34,7 @@ Now it's time to make your Marble Mayhem! experience. Start small and then add m
 
 --- task ---
 
-Add a Sphere GameObject and rename it to `Marble`. 
+Add a 'Sphere' GameObject and rename it to `Marble`. 
 
 Scale the marble to fit your project.
 
@@ -76,13 +76,13 @@ Tilt the level to roll your marble around.
 
 ### Set up your camera
 
-**Choose:** The view you want to use for your project. 
+**Choose** the view you want to use for your project. 
 
-If the player is controlling the ball with the keyboard you will want to choose a view behind and a little above the ball like this...
+If the player is controlling the ball with the keyboard, you will want to choose a view behind and a little above the ball like this:
 
 ![The camera view behind and just above the ball, perfect for a game where the camera follows the ball.](images/camera-view.png)
 
-To tilt the world you should first switch to top view. 
+To tilt the world, you should first switch to top view. 
 
 [[[unity-scene-top-down]]]
 
@@ -92,11 +92,11 @@ Align the camera to the Scene view.
 
 [[[unity-align-with-view]]]
 
-**Choose:** Whether the camera will follow the marble or not. 
+**Choose** whether the camera will follow the marble or not. 
 
-If you are controlling the marble with the keyboard you will want the camera to follow. 
+If you are controlling the marble with the keyboard, you will want the camera to follow. 
 
-For the Tilt you can leave the camera zoomed out and not have it follow the marble - or zoom in and set up the CameraFollow script. 
+If you want to tilt the level to roll your marble around, you can leave the camera zoomed out and not have it follow the marble, or zoom in and set up the CameraFollow script. 
 
 [[[unity-camera-follow-ball]]]
 
@@ -108,11 +108,11 @@ You might also want to be able to rotate the camera.
 
 ### Play and test
 
-Press the Play button and test your game so far. 
+Press the 'Play' button and test your game so far. 
 
 Check that you are happy with the following things: 
 - The layout of your level
-- Camera view, angle and controls
+- Camera view, angle, and controls
 - Level tilt mechanic
 - The difficulty of your level without obstacles
 
@@ -125,11 +125,12 @@ Check that you are happy with the following things:
 
 Now it is time to add some obstacles for the marble to interact with! 
 
-**Choose:** Here are some ideas for obstacles that you could add to your project. 
+**Choose:** 
 
-- Bouncy obstacles to get in the way of the marble, like the Capsules in Rainbow Run and Track Designer
+Here are some ideas for obstacles that you could add to your project:
+- Bouncy obstacles to get in the way of the marble, like the capsules in Rainbow Run and Track Designer
 - Spinning obstacles
-- Objects or Floor tiles that fall away when the marble rolls over them
+- Objects or floor tiles that fall away when the marble rolls over them
 
 You can use any of the models included in your starter package or make your own out of simple GameObjects. 
 
@@ -139,13 +140,13 @@ You can use any of the models included in your starter package or make your own 
 title: Make objects spin
 ---
 
-Add your GameObject into the Scene and change it's position and rotation until you are happy with it. 
+Add your GameObject into the Scene and change its position and rotation until you are happy with it. 
 
 In the Inspector click **'Add Component'** and add the `Spin` script. 
 
-If you do not have the `Spin` script, create a new script called `Spin` and place it in your 'Scripts' folder. 
+If you do not have the `Spin` script, create a new script called `Spin` and place it in your Scripts folder. 
 
-Open the script and type or copy the following code into the editor. 
+Open the script and type or copy the following code into the editor:
 
 --- code ---
 ---
@@ -175,7 +176,7 @@ public class Spin : MonoBehaviour
 
 Save your script and switch back to the Unity editor. 
 
-In the Inspector add a value to the `Rotation` variable in any of the X, Y or Z axes. 
+In the Inspector, add a value to the `Rotation` variable in any of the X, Y or Z axes. 
 
 ![The Spin component with 50 set in the Y section of Rotation.](images/spin-component.png)
 
@@ -187,17 +188,17 @@ In the Inspector add a value to the `Rotation` variable in any of the X, Y or Z 
 title: Make obstacles that fall
 ---
 
-Add your GameObject into the Scene and change it's position and rotation until you are happy with it. 
+Add your GameObject into the Scene and change its position and rotation until you are happy with it. 
 
 In the Inspector click **'Add Component'** and add a `Rigidbody` component.
 
-Make sure to set 'Use Gravity' to False and 'Is Kinematic' to True. 
+Make sure to untick or set 'Use Gravity' to False, and tick or set 'Is Kinematic' to True. 
 
 ![The Rigidbody component with the variables described above set.](images/rigidbody-fall-set-up.png)
 
-Add a new script called `Fall`, place it in your 'Scripts' folder. 
+Add a new script called `Fall`. Place it in your Scripts folder. 
 
-Open the script and type or copy the following code into the editor. 
+Open the script and type or copy the following code into the editor:
 
 --- code ---
 ---
@@ -226,25 +227,25 @@ public class Fall : MonoBehaviour
 
 Save your script, and switch back to the Unity editor.
 
-**Tip:** Make sure to tag your marble as "player" for the script to work.
+**Tip:** Make sure to tag your marble as 'Player' for the script to work.
 
 --- /collapse ---
 
-### Physics Materials
+### Physic Materials
 
-You can add Physics Materials to all the objects in your Scene to change the ways objects collide. 
+You can add Physic Materials to all the objects in your Scene to change the ways objects collide. 
 
-**Choose:** Which objects to add Physics Materials and what the attributes of the Physics Materials are. 
+**Choose** which objects to add Physic Materials and what the attributes of the Physic Materials are. 
 
 - The marble
 - The obstacles 
-- Pieces of the level. 
+- Pieces of the level
 
 [[[add-friction]]]
 
-Create some Physics materials and add them to objects in your Scene.
+Create some physics materials and add them to objects in your Scene.
 
-### Materials, sounds and effects
+### Materials, sounds, and effects
 
 Now it is time to add the final touches to your Scene. 
 
@@ -255,9 +256,9 @@ Now it is time to add the final touches to your Scene.
 - Play a sound when the marble collides with an obstacle
 - Add a particle effect when the marble rolls into an area
 
-You can use the Scripts you have created during the pathway for these effects. If you don't have the scripts, you can find them below. 
+You can use the Scripts you have created during the More Unity path for these effects. If you don't have the scripts, you can find them below. 
 
-**Tip:** Make sure that your marble is tagged as "Player" for these to work.
+**Tip:** Make sure that your marble is tagged as 'Player' for these to work.
 
 --- collapse ---
 
@@ -366,7 +367,7 @@ public class PlaySound : MonoBehaviour
 
 --- /code ---
 
-**Tip:** You will need to add an `AudioSource` component to the object for this to work, set it so it does not 'Play on Awake' and add a Sound file to the 'Clip' section in the Inspector.
+**Tip:** You will need to add an `AudioSource` component to the object for this to work. Set it so it does not 'Play on Awake' and add a Sound file to the 'Clip' section in the Inspector.
 
 --- /collapse ---
 
@@ -424,11 +425,11 @@ Play your game to test out all your new features to check they are working how y
 **Debug:** You might find some bugs in your project that you need to fix. 
 
 Useful debug tips:
-- Double check any changes you made during Play mode.
-- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders.
-- Look at the values of public variables in the Inspector in Play mode to see how they are changing. 
-- Use `Debug.Log()` to print messages to the Console to understand what's happening. 
-- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor.
+- Double check any changes you made during Play mode
+- Click on **Gizmos** in Play mode and then click on a **GameObject** in the Inspector to view its colliders
+- Look at the values of public variables in the Inspector in Play mode to see how they are changing
+- Use `Debug.Log()` to print messages to the Console to understand what's happening
+- Check the Console for errors. Script errors also appear in the bar at the bottom of the editor
 
 --- /task ---
 
@@ -438,9 +439,9 @@ Useful debug tips:
 title: My collisions are not working
 ---
 
-Almost all of the collision scripts require the Marble to tagged as "Player" in the Inspector. 
+Almost all of the collision scripts require the 'Marble' to be tagged as 'Player' in the Inspector. 
 
-![Inspector for the Marble GameObject, with the Tag box highlighted and "Player" set.](images/marble-tag.png)
+![Inspector window for the Marble GameObject, with the Tag box highlighted and 'Player' set.](images/marble-tag.png)
 
 You should also check that any objects you want to collide have a `Collider` component.
 
