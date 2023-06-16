@@ -2,7 +2,7 @@
 
 Now it's time to make your Marble mayhem! experience. Start small and then add more if you have time.
 
-**TO DO ![Image, gif or video showing what they will achieve by the end of the step.](images/image.png)
+![Example output of this project step showing a marble racecourse with multiple coloured tracks.](images/marble-mayhem-preview.png)
 
 ### Unity reference
 
