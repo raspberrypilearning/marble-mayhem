@@ -32,7 +32,7 @@ Think about the physics and the materials used.
 </div>
 <div>
 
-<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/MarbleMayhemRainbowBounce" scrolling = "no" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="710" height="500" src="https://raspberrypilearning.github.io/unity-webgl/MarbleMayhemRainbowBounce" scrolling = "no" alt = "A marble sits on a platform above a number of colourful slides. The slides lead to a walled, tiled floor that includes a number of rotating obstacles and capsules all around the edge." frameborder="0"></iframe>
 
 </div>
 
