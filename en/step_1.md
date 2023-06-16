@@ -77,7 +77,7 @@ Think about the ways these experiences use physics and materials as you investig
 
 --- print-only ---
 
-![Complete project](images/showcase_static.png)
+![A pinball table with a ball and six capsule colliders, three colliders show the text '2pt', two show '1pt' and one shows '5pt'. The score is displayed on the top wall. There is a gap at the bottom and a moveable barrier guarding it. Controls are shown to the right of the table: "UP: W, LEFT: A, RIGHT: D, PADDLE: SPACE." An italicised title is displayed above the table "TILT PINBALL"](images/showcase-static.png)
 
 --- /print-only ---
 
