@@ -6,7 +6,7 @@ Your **project brief** was to create an interactive marble project that showcase
 
 Remember, it takes a long time to make a complete game or art experience. Some projects take years for large teams to develop. Think about what you've managed to achieve in the time you had available.
 
-Does your Marble Mayhem! project:
+Does your Marble mayhem! project:
 
 --- task ---
 
@@ -64,7 +64,7 @@ What cool new thing(s) did you learn?
 
 --- task ---
 
-Mistakes are powerful. What mistakes did you make and how did they help you create your Marble Mayhem! project?
+Mistakes are powerful. What mistakes did you make and how did they help you create your Marble mayhem! project?
 
 --- /task ---
 
