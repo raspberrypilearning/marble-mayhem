@@ -5,11 +5,6 @@
 You can build on any of your previous Design or Explore projects, or if you have enough time, you can start a completely new project. 
 
 Use this step to plan your project. You can plan by just thinking, tinkering, drawing, or writing, or however you like!
-</div>
-<div>
-![](images/start-planning.png){:width="300px"}
-</div>
-</div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"The obvious objective of video games is to entertain people by surprising them with new experiences." Shigeru Miyamoto, Creator of Super Mario Bros.</p>
 
