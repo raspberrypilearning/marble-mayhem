@@ -10,8 +10,8 @@ keywords:
 - 3d
 - game
 version: 1
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2022-06-13'
 steps:
 - title: You will make
